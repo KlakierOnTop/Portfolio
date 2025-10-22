@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=KlakierOnTop">
+  <img align="right" src="https://komarev.com/ghpvc/?username=KlakierOnTop&label=Odwiedzający&color=0e75b6&style=flat" alt="Licznik odwiedzających" />
+</a>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
 </p>
