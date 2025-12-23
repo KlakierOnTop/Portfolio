@@ -1,7 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=KlakierOnTop">
   <img
     align="right"
-    src="https://komarev.com/ghpvc/?username=KlakiernTop&label=Odwiedzający&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=KlakierOnTop&label=Odwiedzający&color=0e75b6&style=flat"
     alt="Licznik odwiedzin"
   />
 </a>
