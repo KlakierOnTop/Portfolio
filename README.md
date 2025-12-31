@@ -162,9 +162,6 @@ Stawiam na czystą architekturę, dobrą dokumentację oraz długoterminową sta
     <td align="center"><img src="https://imgur.com/7OCgW0Y.png" width="400px" style="border-radius:10px;"><br><b>Projekt #56</b></td> 
     <td align="center"><img src="https://imgur.com/9uTgYRp.png" width="400px" style="border-radius:10px;"><br><b>Projekt #57</b></td> 
   </tr>
-   <tr>
-    <td align="center"><img src="https://imgur.com/Tddj2s1.png" width="400px" style="border-radius:10px;"><br><b>Projekt #58</b></td> 
-  </tr>
 </table>
 
 </div>
