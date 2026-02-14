@@ -162,6 +162,14 @@ Stawiam na czystą architekturę, dobrą dokumentację oraz długoterminową sta
     <td align="center"><img src="https://imgur.com/7OCgW0Y.png" width="400px" style="border-radius:10px;"><br><b>Projekt #56</b></td> 
     <td align="center"><img src="https://imgur.com/9uTgYRp.png" width="400px" style="border-radius:10px;"><br><b>Projekt #57</b></td> 
   </tr>
+    <tr>
+    <td align="center"><img src="https://imgur.com/NvZKYdj.png" width="400px" style="border-radius:10px;"><br><b>Projekt #58</b></td> 
+    <td align="center"><img src="https://imgur.com/kVC49Wv.png" width="400px" style="border-radius:10px;"><br><b>Projekt #59</b></td> 
+    <td align="center"><img src="https://imgur.com/fFb44lm.png" width="400px" style="border-radius:10px;"><br><b>Projekt #60</b></td> 
+  </tr>
+    <tr>
+    <td align="center"><img src="https://imgur.com/6fPlZ9f.png" width="400px" style="border-radius:10px;"><br><b>Projekt #61</b></td> 
+  </tr>
 </table>
 
 </div>
