@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Tworzę zaawansowane pluginy, systemy serwerowe oraz boty, ze szczególnym naciskiem na wydajność, stabilność i czytelność kodu.
+  Tworzę zaawansowane pluginy, systemy serwerowe oraz boty, ze szczególnym naciskiem na wydajność, stabilność i czytelność kodu 4 letnie doświadczenie
 </p>
 
 <hr>
